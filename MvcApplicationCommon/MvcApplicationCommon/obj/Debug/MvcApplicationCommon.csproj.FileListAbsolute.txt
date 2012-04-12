@@ -1,0 +1,7 @@
+D:\!work\testCommon\MvcApplicationCommon\MvcApplicationCommon\bin\MvcApplicationCommon.dll
+D:\!work\testCommon\MvcApplicationCommon\MvcApplicationCommon\bin\MvcApplicationCommon.pdb
+D:\!work\testCommon\MvcApplicationCommon\MvcApplicationCommon\bin\EntityFramework.dll
+D:\!work\testCommon\MvcApplicationCommon\MvcApplicationCommon\bin\EntityFramework.xml
+D:\!work\testCommon\MvcApplicationCommon\MvcApplicationCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\!work\testCommon\MvcApplicationCommon\MvcApplicationCommon\obj\Debug\MvcApplicationCommon.dll
+D:\!work\testCommon\MvcApplicationCommon\MvcApplicationCommon\obj\Debug\MvcApplicationCommon.pdb
